@@ -1,0 +1,14 @@
+C:\Users\rocka\Desktop\Image List y Picture Box\obj\Debug\net8.0-windows\WindowsFormsApp2.Form1.resources
+C:\Users\rocka\Desktop\Image List y Picture Box\obj\Debug\net8.0-windows\WindowsFormsApp2.Form2.resources
+C:\Users\rocka\Desktop\Image List y Picture Box\obj\Debug\net8.0-windows\MiApp.csproj.GenerateResource.cache
+C:\Users\rocka\Desktop\Image List y Picture Box\obj\Debug\net8.0-windows\MiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocka\Desktop\Image List y Picture Box\obj\Debug\net8.0-windows\MiApp.AssemblyInfoInputs.cache
+C:\Users\rocka\Desktop\Image List y Picture Box\obj\Debug\net8.0-windows\MiApp.AssemblyInfo.cs
+C:\Users\rocka\Desktop\Image List y Picture Box\obj\Debug\net8.0-windows\MiApp.csproj.CoreCompileInputs.cache
+D:\Proyectos Programación\Image List y Picture Box\obj\Debug\net8.0-windows\WindowsFormsApp2.Form1.resources
+D:\Proyectos Programación\Image List y Picture Box\obj\Debug\net8.0-windows\WindowsFormsApp2.Form2.resources
+D:\Proyectos Programación\Image List y Picture Box\obj\Debug\net8.0-windows\MiApp.csproj.GenerateResource.cache
+D:\Proyectos Programación\Image List y Picture Box\obj\Debug\net8.0-windows\MiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Programación\Image List y Picture Box\obj\Debug\net8.0-windows\MiApp.AssemblyInfoInputs.cache
+D:\Proyectos Programación\Image List y Picture Box\obj\Debug\net8.0-windows\MiApp.AssemblyInfo.cs
+D:\Proyectos Programación\Image List y Picture Box\obj\Debug\net8.0-windows\MiApp.csproj.CoreCompileInputs.cache
